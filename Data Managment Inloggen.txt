@@ -1,0 +1,11 @@
+Data Managment Inloggen:
+1- SELECT user_administration.set_session_svg('dataman','2TI2') bij adminstratie in de 52324
+
+2- SELECT user_administration.new_local_user('dataman'); bij adminstratie in de 52324
+
+LOGIN laptop:
+local_r0939940 	
+H[!c2G1ezvd]H3AZ
+
+WACHTWOORD POSTGRES USER
+H[!c2G1ezvd]H3AZ
